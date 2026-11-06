@@ -1,6 +1,14 @@
 # Sales Database Practice
 
-A beginner PostgreSQL project for practicing table creation, sample data insertion, and basic queries.
+## Description
+
+A beginner PostgreSQL project where I practice creating a sales table, inserting sample records, and writing SQL queries to review and summarize the data.
+
+## Tech stack
+
+- PostgreSQL 18
+- SQL
+- Visual Studio Code
 
 ## What it does
 
@@ -12,8 +20,8 @@ The isolated schema keeps this exercise separate from any existing `public.sales
 
 ## Requirements
 
-- PostgreSQL
-- A PostgreSQL client such as pgAdmin or the VS Code SQL extension
+- PostgreSQL 18
+- A PostgreSQL client such as the VS Code SQL extension
 
 ## Run the scripts
 
